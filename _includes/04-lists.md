@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+My favourite foods
+* Icecream
+* Biriyani
+* Alfam
+
+My favourite social medias
+1.instagram
+2.facebook
+3.whatsapp
